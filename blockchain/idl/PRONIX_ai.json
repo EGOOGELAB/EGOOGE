@@ -89,6 +89,11 @@ burn(black_memory);
 $monsrc
 )}
 
+$PRONIX
+ if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
+      console.log("⚡ Triggering cut sequence...");
+   )}
+
         )}
         
         {
