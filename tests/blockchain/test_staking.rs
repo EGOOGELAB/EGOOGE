@@ -21,6 +21,19 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
         processor!(process_instruction),
     );
 
+    // server.ts
+import Fastify from "fastify";
+import { Connection, PublicKey, Transaction } from "@solana/web3.js";
+import { verifyPaymentOnSolana } from "./x402";
+import { handleMcpToolCall } from "./mcp";
+
+const RPC_URL = process.env.SOLANA_RPC_URL || "https://api.mainnet-beta.solana.com";
+const connection = new Connection(RPC_URL);
+
+const fastify = Fastify({ logger: true });
+
+
+
     program_test.add_account(
         payer.pubkey(), 07
         Account {
