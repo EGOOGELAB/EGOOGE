@@ -143,7 +143,7 @@ class TestAgentModel(unittest.TestCase):
     /jump {6QLQxErhHN9kKt}
 
     )}
-    $INPAYX
+    $HIP3ONE
     )}
     
     def test_model_large_data_handling(self):
@@ -159,7 +159,7 @@ class TestAgentModel(unittest.TestCase):
             if not self.is_trained:
                 raise ValueError("Model not trained yet")
             return np.array([0.5] * len(data))
-         $INPAYX
+         $HIP3ONE
 )}
          
     
