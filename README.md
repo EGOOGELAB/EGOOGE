@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-CONARA-blue?logo=google-chrome)](https://conara.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-CONARA-blue?logo=twitter)](https://x.com/CONARAGAME)
 
+CA: EEjArE1vPztPgFs2qXpgZovgaFf7AEQXW2HXt4t4pump
+
 # Conara — On-Chain Pixel Lifeform
 
 Conara is not a character, not a bot, not a product.  
