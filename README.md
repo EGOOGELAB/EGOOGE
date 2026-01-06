@@ -1,57 +1,63 @@
-![1500x500](https://github.com/user-attachments/assets/544a42af-c382-4bf3-99ed-8a31e2ed0d07)
-
-# DigimonGotchi
+```
+ ________  ________  ________  ________  ________  ________   ________  ________  ___       ___               ________  
+|\   ___ \|\   __  \|\   __  \|\   ____\|\   __  \|\   ___  \|\   ____\|\   __  \|\  \     |\  \             |\_____  \ 
+\ \  \_|\ \ \  \|\  \ \  \|\  \ \  \___|\ \  \|\  \ \  \\ \  \ \  \___|\ \  \|\  \ \  \    \ \  \             \|___/  /|
+ \ \  \ \\ \ \   _  _\ \   __  \ \  \  __\ \  \\\  \ \  \\ \  \ \  \    \ \   __  \ \  \    \ \  \                /  / /
+  \ \  \_\\ \ \  \\  \\ \  \ \  \ \  \|\  \ \  \\\  \ \  \\ \  \ \  \____\ \  \ \  \ \  \____\ \  \____          /  / / 
+   \ \_______\ \__\\ _\\ \__\ \__\ \_______\ \_______\ \__\\ \__\ \_______\ \__\ \__\ \_______\ \_______\       /__/ /  
+    \|_______|\|__|\|__|\|__|\|__|\|_______|\|_______|\|__| \|__|\|_______|\|__|\|__|\|_______|\|_______|       |__|/   
+                                                                                                                        
+                                                                                                                        
+```                                                                                                                        
+                                                                                                                        
+#·#·# DragonCall 7
 
 <p align="center">
-  <a href="https://dgotchi.fun/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-dgotchi.fun-black?style=for-the-badge">
+  <a href="https://dgcall7.fun/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-dgcall7.fun-black?style=flat&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://x.com/DigimonGotchi01" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-@DigimonGotchi01-black?style=for-the-badge">
+  &nbsp;
+  <a href="https://x.com/DragonCall7fun" target="_blank">
+    <img src="https://img.shields.io/badge/X-@DragonCall7fun-black?style=flat&logo=x&logoColor=white">
   </a>
 </p>
+
 
 ---
 
 ## Overview
 
-**DigimonGotchi** brings the evolution concept of classic Digimon on-chain.
+**DragonCall 7** places the concept of Saiyan form change into an on-chain environment.
 
-The project consists of a single Digimon living on Solana.  
-It owns its own wallet and trades in real crypto markets using creator fees as its only source of funding.
-
-There is no user control and no predefined path.  
-The Digimon’s evolution is determined entirely by its trading behavior — how it takes risk, how it holds positions, and how it survives market volatility.
+The project revolves around a single Saiyan entity living on Solana. It owns its own wallet and operates in real crypto markets using creator fees as its only source of funding. There is no user control, no manual input, and no predefined path. Every form change is the direct result of its trading behavior.
 
 ---
 
-## How It Works
+## How It Operates
 
-- The Digimon has a dedicated on-chain wallet  
-- All activity is funded exclusively by creator fees  
-- Trades are real and executed on-chain  
-- No external deposits or manual intervention  
-- No optimization for performance or profit
+- One autonomous on-chain entity  
+- One independent wallet  
+- Funded exclusively by creator fees  
+- Real trades executed on-chain  
+- No external deposits or intervention  
 
-Every action leaves a trace.  
-Every decision affects its state.
+The Saiyan acts according to market conditions alone.
 
 ---
 
-## Evolution Logic
+## Form Changes
 
-There are no levels, feeding mechanics, or upgrade systems.
+There are no levels, upgrades, or feeding mechanics.
 
-Evolution is not a reward.  
-It is the natural outcome of accumulated trading behavior.
+Form change is not a reward and not an objective.  
+It reflects accumulated behavior over time — how risk is taken, how positions are managed, and whether the entity can continue operating under volatility.
 
-Based on its actions, the Digimon may:
-- Grow
-- Regress
-- Mutate
-- Or die
+The Saiyan may:
+- Shift into more aggressive forms  
+- Lose stability and regress  
+- Or exit the market entirely  
 
-There is no reset.
+There are no resets.
 
 ---
 
@@ -60,44 +66,21 @@ There is no reset.
 - Not a game  
 - Not a trading bot  
 - Not a financial product  
-- No profit guarantees  
 - No user ownership or control  
-
-DigimonGotchi exists as an observation, not a promise.
+- No promises of performance or returns  
 
 ---
 
 ## Transparency
 
-- All trades are on-chain  
-- All funding comes from creator fees  
-- All outcomes are public and verifiable  
+- All activity is on-chain  
+- Funding comes only from creator fees  
+- Outcomes are public and verifiable  
 
-Nothing is hidden. Nothing is edited.
-
----
-
-## Philosophy
-
-We do not guide it.  
-We do not correct it.  
-We do not protect it.
-
-**We simply place it in the market and observe.**
+Nothing is hidden. Nothing is adjusted.
 
 ---
 
-## Links
+## Rules
 
-- Website: https://dgotchi.fun/  
-- X (Twitter): https://x.com/DigimonGotchi01  
 
----
-
-## Disclaimer
-
-DigimonGotchi is an experimental project.  
-It involves real on-chain activity and market risk.  
-There are no guarantees of performance, continuity, or survival.
-
-Proceed with understanding.
