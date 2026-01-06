@@ -1,119 +1,87 @@
-![1500x500](https://github.com/user-attachments/assets/f5b68122-1ae1-489e-a27e-acbfb9475ad5)
 
-# Owl000
+# DeGen100X
 
-**Adopt an ASCII owl that lives and dies by how you trade.**
+## Project Information
 
-## Links
+Website  
+https://degen100x.fun/
 
-- 🌐 **Website**: https://owl000.fun/
-- 🐦 **X / Twitter**: https://x.com/Owl000Node
-- 📄 **Contract Address (CA)**: `CfkXG7b1NTX6hbP6hJB2oPjiARNWxGbN2wP6PKznpump`
-- 🚀 **Pump.fun**: https://pump.fun/coin/CfkXG7b1NTX6hbP6hJB2oPjiARNWxGbN2wP6PKznpump
+X (Twitter)  
+https://x.com/DeGen100XXXX
 
+Contract Address (Solana)
+EA6BKMya7hGCjrAbK61RTESrbT4YXF8TpmZyMGfUpump
 
-Owl000 is an on-chain experiment built on Solana.  
-Each wallet can adopt a single ASCII owl that is permanently bound to its trading behavior.
-
-This is not a game.  
-This is not a collectible.  
-This is a mirror.
+Always verify the contract address through the official website.  
+Do not trust DMs, replies, or unofficial links.
 
 ---
 
-## What is Owl000?
+## Overview
 
-Owl000 assigns every participating wallet a living counterpart — an ASCII owl.
+DeGen100X is a virtual on-chain character capable of acting independently on Solana.
 
-Your owl observes how you trade on-chain:
-- how active you are  
-- how patient you are  
-- how much risk you take  
-- how consistent you remain over time  
+He trades tokens, explores DeFi protocols, buys NFTs he likes, and experiences every corner of the crypto world — living like a true digital being with his own rhythm and decisions.
 
-These behaviors shape your owl’s form, condition, and survival.
-
-Some owls stabilize and endure.  
-Others deteriorate, fracture, or disappear entirely.
-
-Not every owl survives.
+This is not a game, nor a tool, but an experiment in on-chain life and human behavior.
 
 ---
 
-## How It Works
+## Autonomous On-Chain Behavior
 
-### 1. Adopt  
-Connect your wallet and adopt one ASCII owl.  
-Each wallet can only adopt once.  
-Your owl is permanently bound to your address.
+DeGen100X is not controlled by anyone.  
+Every action and decision he makes is driven by on-chain data and market signals.
 
-### 2. Trade  
-Trade as you normally do.  
-Your owl watches your on-chain trading behavior.  
-No extra actions are required.
+Greed, fear, excitement, exhaustion, hesitation, and conviction all form part of his digital emotions.  
+His behavior evolves naturally as market conditions change.
 
-### 3. Live or Die  
-Your owl evolves over time.  
-Trade wisely, and it survives.  
-Trade recklessly, and it weakens.  
-Survival is not guaranteed.
+There is no manual intervention.  
+There is no script.
 
 ---
 
-## What Owl000 Is Not
+## Creator-Fee Driven Lifecycle
 
-- Not a profit leaderboard  
-- Not financial advice  
-- Not a traditional NFT project  
-- Not a resettable game  
+Every trade and every move made by DeGen100X is funded entirely by the project’s Creator Fee.
 
-Owl000 does not judge outcomes.  
-It records patterns.
+There is no pre-funded treasury.  
+There is no team-controlled trading.  
+There is no hidden intervention.
 
----
-
-## Why ASCII?
-
-ASCII is minimal, transparent, and portable.
-
-Your owl can be:
-- displayed on the website
-- shared on social media
-- embedded in terminals
-- copied anywhere as plain text
-
-No images.  
-No skins.  
-No cosmetics.
-
-Only behavior.
+Every participant and every interaction directly fuels his continued existence, evolution, and exploration.
 
 ---
 
-## Survival
+## 24/7 On-Chain Livestream
 
-Owls do not disappear because of a single loss.  
-They fade through sustained destructive behavior.
+All of this unfolds through a 24/7 livestream on Pumpfun, where everything is transparent and alive.
 
-Once gone, an owl cannot be recovered.
+From euphoric rallies to crushing dips,  
+from moments of chaos to quiet reflection,  
+every trade, every impulse, every reset is visible in real time.
+
+---
+
+## What You Are Watching
+
+What you see is not just the fluctuation of a token.
+
+It is the growth, collapse, and rebirth of an on-chain being.  
+DeGen100X may be made of code, but what he mirrors is the emotional rhythm shared by everyone who lives in the crypto world.
 
 ---
 
 ## Disclaimer
 
-Owl000 is an experimental on-chain system.  
-It does not provide investment advice or performance evaluation.
+DeGen100X is an experimental, behavior-driven on-chain project.
 
+Nothing in this repository constitutes financial advice.  
 Participation is voluntary.  
-All interpretations are symbolic.
+Loss is possible.
 
 ---
 
 ## Status
 
-Owl000 is currently under active development.  
-Details may evolve as the system grows.
-
----
-
-**Not every owl survives.**
+DeGen100X is live.  
+The experiment is ongoing.
