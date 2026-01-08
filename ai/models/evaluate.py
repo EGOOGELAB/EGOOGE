@@ -1,5 +1,5 @@
 import torch  
-import torch.nn as nn
+import torch.nn as nn 
 from torch.utils.data import DataLoader, TensorDataset
 import numpy as np
 import pandas as pd
