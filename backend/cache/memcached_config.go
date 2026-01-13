@@ -9,7 +9,7 @@ import (
 
     "github.com/bradfitz/gomemcache/memcache"
 
-
+ 
 // MemcachedConfig holds the configuration for Memcached connection.
 type MemcachedConfig struct {
     Servers       []string // List of Memcached server addresses (e.g., "localhost:11211")
